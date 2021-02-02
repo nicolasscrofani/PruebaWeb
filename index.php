@@ -1,7 +1,7 @@
 <?php 
 
-echo ("<h1>hola mudo</h1>");
+echo ("<h1 style='color:red;'>hola mudo</h1>");
 
-echo ("<h2>ASD</h2>");
+echo ("<h2 style='color:green;'>ASD</h2>");
 
 ?>
